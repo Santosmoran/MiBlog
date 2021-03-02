@@ -1,4 +1,4 @@
-# MiBlog
+# Semana 1
 <html>
 	<head>
 		<title>mi primera semana</title>
