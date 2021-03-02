@@ -1,7 +1,7 @@
 # MiBlog
 <html>
 	<head>
-		<title>Mi página de ejemplo</title>
+		<title>mi primera semana</title>
 	</head>
 	<body>
 	Aquí va el contenido
