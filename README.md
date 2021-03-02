@@ -1,12 +1,12 @@
-<h1>semana 1</h1>
+<h1>Mi Blog</h1>
 
 <p>Por Chris Mills</p>
 
-<h2>Capítulo 1: La oscura noche</h2>
+<h2>semana 1</h2>
 
 <p>Era una noche oscura. En algún lugar, un búho ululó. La lluvia azotó el ...</p>
 
-<h2>Capítulo 2: El silencio eterno</h2>
+<h2>semana 2</h2>
 
 <p>Nuestro protagonista ni susurrar pudo al ver esa sombría figura ...</p>
 
