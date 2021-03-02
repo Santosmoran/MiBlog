@@ -4,6 +4,6 @@
 		<title>mi primera semana</title>
 	</head>
 	<body>
-	Aquí va el contenido
+	mi primera semana
 	</body>
 </html>
